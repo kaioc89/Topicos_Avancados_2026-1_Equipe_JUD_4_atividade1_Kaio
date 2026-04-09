@@ -1,0 +1,1120 @@
+{
+    "summary": {
+      "model_name": "meta-llama/Llama-3.2-3B-Instruct",
+      "start_idx": 861,
+      "count": 123,
+      "correct": 51,
+      "accuracy": 0.4146341463414634,
+      "use_4bit": false,
+      "use_8bit": false
+    },
+    "results": [
+      {
+        "question_idx": 862,
+        "question_number": 6,
+        "exam_id": "2013-10",
+        "predicted": "B",
+        "expected": "B",
+        "raw_answer": "B.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 863,
+        "question_number": 7,
+        "exam_id": "2013-10",
+        "predicted": "B",
+        "expected": "B",
+        "raw_answer": "B.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 864,
+        "question_number": 8,
+        "exam_id": "2013-10",
+        "predicted": "B",
+        "expected": "B",
+        "raw_answer": "B.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 865,
+        "question_number": 9,
+        "exam_id": "2013-10",
+        "predicted": "B",
+        "expected": "D",
+        "raw_answer": "B.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 866,
+        "question_number": 10,
+        "exam_id": "2013-10",
+        "predicted": "C",
+        "expected": "C",
+        "raw_answer": "C.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 867,
+        "question_number": 11,
+        "exam_id": "2013-10",
+        "predicted": "D",
+        "expected": "D",
+        "raw_answer": "D.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 868,
+        "question_number": 12,
+        "exam_id": "2013-10",
+        "predicted": "C",
+        "expected": "B",
+        "raw_answer": "C.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 869,
+        "question_number": 13,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "D",
+        "raw_answer": "A.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 870,
+        "question_number": 14,
+        "exam_id": "2013-10",
+        "predicted": "D",
+        "expected": "D",
+        "raw_answer": "D.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 871,
+        "question_number": 15,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "C",
+        "raw_answer": "A.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 872,
+        "question_number": 16,
+        "exam_id": "2013-10",
+        "predicted": "D",
+        "expected": "B",
+        "raw_answer": "D.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 873,
+        "question_number": 17,
+        "exam_id": "2013-10",
+        "predicted": "B",
+        "expected": "D",
+        "raw_answer": "B.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 874,
+        "question_number": 18,
+        "exam_id": "2013-10",
+        "predicted": "B",
+        "expected": "B",
+        "raw_answer": "B.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 875,
+        "question_number": 19,
+        "exam_id": "2013-10",
+        "predicted": "D",
+        "expected": "B",
+        "raw_answer": "D.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 876,
+        "question_number": 20,
+        "exam_id": "2013-10",
+        "predicted": "C",
+        "expected": "D",
+        "raw_answer": "C.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 877,
+        "question_number": 21,
+        "exam_id": "2013-10",
+        "predicted": "B",
+        "expected": "A",
+        "raw_answer": "B.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 878,
+        "question_number": 22,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "C",
+        "raw_answer": "A.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 879,
+        "question_number": 23,
+        "exam_id": "2013-10",
+        "predicted": "D",
+        "expected": "B",
+        "raw_answer": "D.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 880,
+        "question_number": 24,
+        "exam_id": "2013-10",
+        "predicted": "D",
+        "expected": "D",
+        "raw_answer": "D.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 881,
+        "question_number": 25,
+        "exam_id": "2013-10",
+        "predicted": "C",
+        "expected": "B",
+        "raw_answer": "C.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 882,
+        "question_number": 26,
+        "exam_id": "2013-10",
+        "predicted": "B",
+        "expected": "D",
+        "raw_answer": "B.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 883,
+        "question_number": 27,
+        "exam_id": "2013-10",
+        "predicted": "D",
+        "expected": "D",
+        "raw_answer": "D.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 884,
+        "question_number": 28,
+        "exam_id": "2013-10",
+        "predicted": "B",
+        "expected": "B",
+        "raw_answer": "B.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 885,
+        "question_number": 29,
+        "exam_id": "2013-10",
+        "predicted": "B",
+        "expected": "D",
+        "raw_answer": "B.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 886,
+        "question_number": 30,
+        "exam_id": "2013-10",
+        "predicted": "D",
+        "expected": "A",
+        "raw_answer": "D.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 887,
+        "question_number": 31,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "A",
+        "raw_answer": "A.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 888,
+        "question_number": 32,
+        "exam_id": "2013-10",
+        "predicted": "B",
+        "expected": "B",
+        "raw_answer": "B.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 889,
+        "question_number": 33,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "D",
+        "raw_answer": "A.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 890,
+        "question_number": 34,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "D",
+        "raw_answer": "A.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 891,
+        "question_number": 35,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "B",
+        "raw_answer": "A.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 892,
+        "question_number": 36,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "A",
+        "raw_answer": "A.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 893,
+        "question_number": 37,
+        "exam_id": "2013-10",
+        "predicted": "D",
+        "expected": "B",
+        "raw_answer": "D.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 894,
+        "question_number": 38,
+        "exam_id": "2013-10",
+        "predicted": "D",
+        "expected": "B",
+        "raw_answer": "D.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 895,
+        "question_number": 39,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "C",
+        "raw_answer": "A.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 896,
+        "question_number": 40,
+        "exam_id": "2013-10",
+        "predicted": "C",
+        "expected": "C",
+        "raw_answer": "C.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 897,
+        "question_number": 41,
+        "exam_id": "2013-10",
+        "predicted": "D",
+        "expected": "B",
+        "raw_answer": "D.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 898,
+        "question_number": 42,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "C",
+        "raw_answer": "A.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 899,
+        "question_number": 43,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "A",
+        "raw_answer": "A.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 900,
+        "question_number": 44,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "D",
+        "raw_answer": "A.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 901,
+        "question_number": 45,
+        "exam_id": "2013-10",
+        "predicted": "C",
+        "expected": "C",
+        "raw_answer": "C.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 902,
+        "question_number": 46,
+        "exam_id": "2013-10",
+        "predicted": "D",
+        "expected": "A",
+        "raw_answer": "D.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 903,
+        "question_number": 47,
+        "exam_id": "2013-10",
+        "predicted": "C",
+        "expected": "A",
+        "raw_answer": "C.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 904,
+        "question_number": 48,
+        "exam_id": "2013-10",
+        "predicted": "D",
+        "expected": "A",
+        "raw_answer": "D.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 905,
+        "question_number": 49,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "A",
+        "raw_answer": "A.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 906,
+        "question_number": 50,
+        "exam_id": "2013-10",
+        "predicted": "D",
+        "expected": "D",
+        "raw_answer": "D.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 907,
+        "question_number": 51,
+        "exam_id": "2013-10",
+        "predicted": "D",
+        "expected": "D",
+        "raw_answer": "D.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 908,
+        "question_number": 52,
+        "exam_id": "2013-10",
+        "predicted": "D",
+        "expected": "D",
+        "raw_answer": "D.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 909,
+        "question_number": 53,
+        "exam_id": "2013-10",
+        "predicted": "B",
+        "expected": "A",
+        "raw_answer": "B.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 910,
+        "question_number": 54,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "D",
+        "raw_answer": "A.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 911,
+        "question_number": 55,
+        "exam_id": "2013-10",
+        "predicted": "B",
+        "expected": "A",
+        "raw_answer": "B.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 912,
+        "question_number": 56,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "C",
+        "raw_answer": "A.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 913,
+        "question_number": 57,
+        "exam_id": "2013-10",
+        "predicted": "C",
+        "expected": "D",
+        "raw_answer": "C.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 914,
+        "question_number": 58,
+        "exam_id": "2013-10",
+        "predicted": "D",
+        "expected": "B",
+        "raw_answer": "D.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 915,
+        "question_number": 59,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "B",
+        "raw_answer": "A.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 916,
+        "question_number": 60,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "A",
+        "raw_answer": "A.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 917,
+        "question_number": 61,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "B",
+        "raw_answer": "A.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 918,
+        "question_number": 62,
+        "exam_id": "2013-10",
+        "predicted": "C",
+        "expected": "A",
+        "raw_answer": "C.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 919,
+        "question_number": 63,
+        "exam_id": "2013-10",
+        "predicted": "B",
+        "expected": "B",
+        "raw_answer": "B.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 920,
+        "question_number": 64,
+        "exam_id": "2013-10",
+        "predicted": "D",
+        "expected": "C",
+        "raw_answer": "D.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 921,
+        "question_number": 65,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "A",
+        "raw_answer": "A.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 922,
+        "question_number": 66,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "D",
+        "raw_answer": "A.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 923,
+        "question_number": 67,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "C",
+        "raw_answer": "A.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 924,
+        "question_number": 68,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "C",
+        "raw_answer": "A.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 925,
+        "question_number": 69,
+        "exam_id": "2013-10",
+        "predicted": "C",
+        "expected": "C",
+        "raw_answer": "C.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 926,
+        "question_number": 70,
+        "exam_id": "2013-10",
+        "predicted": "B",
+        "expected": "D",
+        "raw_answer": "B.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 927,
+        "question_number": 71,
+        "exam_id": "2013-10",
+        "predicted": "B",
+        "expected": "B",
+        "raw_answer": "B.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 928,
+        "question_number": 72,
+        "exam_id": "2013-10",
+        "predicted": "C",
+        "expected": "B",
+        "raw_answer": "C.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 929,
+        "question_number": 73,
+        "exam_id": "2013-10",
+        "predicted": "B",
+        "expected": "A",
+        "raw_answer": "B.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 930,
+        "question_number": 74,
+        "exam_id": "2013-10",
+        "predicted": "D",
+        "expected": "C",
+        "raw_answer": "D.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 931,
+        "question_number": 75,
+        "exam_id": "2013-10",
+        "predicted": "C",
+        "expected": "C",
+        "raw_answer": "C.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 932,
+        "question_number": 76,
+        "exam_id": "2013-10",
+        "predicted": "D",
+        "expected": "D",
+        "raw_answer": "D.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 933,
+        "question_number": 77,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "D",
+        "raw_answer": "A.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 934,
+        "question_number": 78,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "C",
+        "raw_answer": "A.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 935,
+        "question_number": 79,
+        "exam_id": "2013-10",
+        "predicted": "D",
+        "expected": "A",
+        "raw_answer": "D.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 936,
+        "question_number": 80,
+        "exam_id": "2013-10",
+        "predicted": "C",
+        "expected": "B",
+        "raw_answer": "C.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 937,
+        "question_number": 1,
+        "exam_id": "2013-11",
+        "predicted": "B",
+        "expected": "B",
+        "raw_answer": "B.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 938,
+        "question_number": 2,
+        "exam_id": "2013-11",
+        "predicted": "B",
+        "expected": "B",
+        "raw_answer": "B.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 939,
+        "question_number": 3,
+        "exam_id": "2013-11",
+        "predicted": "C",
+        "expected": "B",
+        "raw_answer": "C.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 940,
+        "question_number": 4,
+        "exam_id": "2013-11",
+        "predicted": "B",
+        "expected": "B",
+        "raw_answer": "B.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 941,
+        "question_number": 5,
+        "exam_id": "2013-11",
+        "predicted": "C",
+        "expected": "C",
+        "raw_answer": "C.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 942,
+        "question_number": 6,
+        "exam_id": "2013-11",
+        "predicted": "D",
+        "expected": "C",
+        "raw_answer": "D.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 943,
+        "question_number": 7,
+        "exam_id": "2013-11",
+        "predicted": "B",
+        "expected": "B",
+        "raw_answer": "B.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 944,
+        "question_number": 8,
+        "exam_id": "2013-11",
+        "predicted": "C",
+        "expected": "B",
+        "raw_answer": "C.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 945,
+        "question_number": 9,
+        "exam_id": "2013-11",
+        "predicted": "B",
+        "expected": "D",
+        "raw_answer": "B.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 946,
+        "question_number": 10,
+        "exam_id": "2013-11",
+        "predicted": "C",
+        "expected": "B",
+        "raw_answer": "C.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 947,
+        "question_number": 11,
+        "exam_id": "2013-11",
+        "predicted": "B",
+        "expected": "B",
+        "raw_answer": "B.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 948,
+        "question_number": 12,
+        "exam_id": "2013-11",
+        "predicted": "D",
+        "expected": "D",
+        "raw_answer": "D.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 949,
+        "question_number": 13,
+        "exam_id": "2013-11",
+        "predicted": "B",
+        "expected": "B",
+        "raw_answer": "B.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 950,
+        "question_number": 14,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "D",
+        "raw_answer": "A.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 951,
+        "question_number": 15,
+        "exam_id": "2013-11",
+        "predicted": "D",
+        "expected": "D",
+        "raw_answer": "D.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 952,
+        "question_number": 16,
+        "exam_id": "2013-11",
+        "predicted": "B",
+        "expected": "C",
+        "raw_answer": "B.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 953,
+        "question_number": 17,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "D",
+        "raw_answer": "A.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 954,
+        "question_number": 18,
+        "exam_id": "2013-11",
+        "predicted": "C",
+        "expected": "B",
+        "raw_answer": "C.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 955,
+        "question_number": 19,
+        "exam_id": "2013-11",
+        "predicted": "C",
+        "expected": "D",
+        "raw_answer": "C.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 956,
+        "question_number": 20,
+        "exam_id": "2013-11",
+        "predicted": "C",
+        "expected": "C",
+        "raw_answer": "C.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 957,
+        "question_number": 21,
+        "exam_id": "2013-11",
+        "predicted": "B",
+        "expected": "B",
+        "raw_answer": "B.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 958,
+        "question_number": 22,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "B",
+        "raw_answer": "A.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 959,
+        "question_number": 23,
+        "exam_id": "2013-11",
+        "predicted": "C",
+        "expected": "C",
+        "raw_answer": "C.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 960,
+        "question_number": 24,
+        "exam_id": "2013-11",
+        "predicted": "B",
+        "expected": "A",
+        "raw_answer": "B.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 961,
+        "question_number": 25,
+        "exam_id": "2013-11",
+        "predicted": "C",
+        "expected": "D",
+        "raw_answer": "C.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 962,
+        "question_number": 26,
+        "exam_id": "2013-11",
+        "predicted": "B",
+        "expected": "B",
+        "raw_answer": "B.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 963,
+        "question_number": 27,
+        "exam_id": "2013-11",
+        "predicted": "C",
+        "expected": "A",
+        "raw_answer": "C.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 964,
+        "question_number": 28,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "B",
+        "raw_answer": "A.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 965,
+        "question_number": 29,
+        "exam_id": "2013-11",
+        "predicted": "C",
+        "expected": "D",
+        "raw_answer": "C.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 966,
+        "question_number": 30,
+        "exam_id": "2013-11",
+        "predicted": "C",
+        "expected": "A",
+        "raw_answer": "C.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 967,
+        "question_number": 31,
+        "exam_id": "2013-11",
+        "predicted": "C",
+        "expected": "C",
+        "raw_answer": "C.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 968,
+        "question_number": 32,
+        "exam_id": "2013-11",
+        "predicted": "C",
+        "expected": "C",
+        "raw_answer": "C.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 969,
+        "question_number": 33,
+        "exam_id": "2013-11",
+        "predicted": "D",
+        "expected": "D",
+        "raw_answer": "D.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 970,
+        "question_number": 34,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "B",
+        "raw_answer": "A.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 971,
+        "question_number": 35,
+        "exam_id": "2013-11",
+        "predicted": "C",
+        "expected": "C",
+        "raw_answer": "C.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 972,
+        "question_number": 36,
+        "exam_id": "2013-11",
+        "predicted": "C",
+        "expected": "B",
+        "raw_answer": "C.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 973,
+        "question_number": 37,
+        "exam_id": "2013-11",
+        "predicted": "C",
+        "expected": "C",
+        "raw_answer": "C.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 974,
+        "question_number": 38,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "D",
+        "raw_answer": "A.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 975,
+        "question_number": 39,
+        "exam_id": "2013-11",
+        "predicted": "D",
+        "expected": "B",
+        "raw_answer": "D.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 976,
+        "question_number": 40,
+        "exam_id": "2013-11",
+        "predicted": "B",
+        "expected": "B",
+        "raw_answer": "B.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 977,
+        "question_number": 41,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "A",
+        "raw_answer": "A.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 978,
+        "question_number": 42,
+        "exam_id": "2013-11",
+        "predicted": "C",
+        "expected": "C",
+        "raw_answer": "C.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 979,
+        "question_number": 43,
+        "exam_id": "2013-11",
+        "predicted": "C",
+        "expected": "C",
+        "raw_answer": "C.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 980,
+        "question_number": 44,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "A",
+        "raw_answer": "A.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 981,
+        "question_number": 45,
+        "exam_id": "2013-11",
+        "predicted": "B",
+        "expected": "A",
+        "raw_answer": "B.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 982,
+        "question_number": 46,
+        "exam_id": "2013-11",
+        "predicted": "B",
+        "expected": "D",
+        "raw_answer": "B.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 983,
+        "question_number": 47,
+        "exam_id": "2013-11",
+        "predicted": "C",
+        "expected": "C",
+        "raw_answer": "C.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 984,
+        "question_number": 48,
+        "exam_id": "2013-11",
+        "predicted": "C",
+        "expected": "A",
+        "raw_answer": "C.",
+        "is_correct": false
+      }
+    ]
+  }

@@ -1,0 +1,1120 @@
+{
+    "summary": {
+      "model_name": "google/gemma-2-2b-it",
+      "start_idx": 861,
+      "count": 123,
+      "correct": 44,
+      "accuracy": 0.35772357723577236,
+      "use_4bit": false,
+      "use_8bit": false
+    },
+    "results": [
+      {
+        "question_idx": 862,
+        "question_number": 6,
+        "exam_id": "2013-10",
+        "predicted": "B",
+        "expected": "B",
+        "raw_answer": "B**",
+        "is_correct": true
+      },
+      {
+        "question_idx": 863,
+        "question_number": 7,
+        "exam_id": "2013-10",
+        "predicted": "B",
+        "expected": "B",
+        "raw_answer": "B**",
+        "is_correct": true
+      },
+      {
+        "question_idx": 864,
+        "question_number": 8,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "B",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 865,
+        "question_number": 9,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "D",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 866,
+        "question_number": 10,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "C",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 867,
+        "question_number": 11,
+        "exam_id": "2013-10",
+        "predicted": "D",
+        "expected": "D",
+        "raw_answer": "D**",
+        "is_correct": true
+      },
+      {
+        "question_idx": 868,
+        "question_number": 12,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "B",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 869,
+        "question_number": 13,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "D",
+        "raw_answer": "A\n\n**Explicação:**\n\nA Constituição brasileira não pode ser emendada em situações específicas, como:\n\n* **Estado de emergência e intervenção da União nos Estados:** A Constituição não pode ser alterada durante a situação de emergência, pois a necessidade de agir rapidamente e de forma coordenada exige flexibilidade e autonomia para o governo federal.\n* **Estado de sítio e intervenção da União nos Municípios:** A Constituição não pode ser alterada durante a situação de sítio, pois a necessidade de agir rapidamente e de forma coordenada exige flexibilidade e autonomia para o governo federal.\n\n**Observação:**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 870,
+        "question_number": 14,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "D",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 871,
+        "question_number": 15,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "C",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 872,
+        "question_number": 16,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "B",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 873,
+        "question_number": 17,
+        "exam_id": "2013-10",
+        "predicted": "C",
+        "expected": "D",
+        "raw_answer": "C**\n\n\n**Justificativa:**\n\nA medida provisória, por ser um instrumento de caráter temporário, tem sua eficácia limitada por um prazo determinado. Após o prazo, ela perde sua validade e não pode ser convertida em lei. \n\n**Explicação:**\n\n* A afirmativa C está correta pois a medida provisória, por ser temporária, perde sua eficácia após o prazo de 30 dias. \n* A afirmativa A está incorreta pois a medida provisória não terá eficácia por mais 30 dias.\n* A afirmativa B está incorreta pois a",
+        "is_correct": false
+      },
+      {
+        "question_idx": 874,
+        "question_number": 18,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "B",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 875,
+        "question_number": 19,
+        "exam_id": "2013-10",
+        "predicted": "B",
+        "expected": "B",
+        "raw_answer": "B**",
+        "is_correct": true
+      },
+      {
+        "question_idx": 876,
+        "question_number": 20,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "D",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 877,
+        "question_number": 21,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "A",
+        "raw_answer": "A**",
+        "is_correct": true
+      },
+      {
+        "question_idx": 878,
+        "question_number": 22,
+        "exam_id": "2013-10",
+        "predicted": "C",
+        "expected": "C",
+        "raw_answer": "C**\n\n**Explicação:**\n\nA afirmativa C está incorreta porque o direito de retificação ou de resposta não é um princípio fundamental consagrado na Constituição Federal de 1988. \n\n**Observação:**\n\nA Constituição Federal de 1988, ao consagrar os Direitos Humanos, estabelece princípios como a dignidade da pessoa humana, a igualdade perante a lei, a liberdade e a justiça social. \n\nA Convenção Americana de Direitos Humanos, por sua vez, é um instrumento internacional que busca proteger os direitos humanos de forma mais ampla.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 879,
+        "question_number": 23,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "B",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 880,
+        "question_number": 24,
+        "exam_id": "2013-10",
+        "predicted": "D",
+        "expected": "D",
+        "raw_answer": "D**",
+        "is_correct": true
+      },
+      {
+        "question_idx": 881,
+        "question_number": 25,
+        "exam_id": "2013-10",
+        "predicted": "C",
+        "expected": "B",
+        "raw_answer": "C\n\n\n\n\n**Explicação:**\n\nA responsabilidade solidária entre irmãos é estabelecida pelo Código Civil.  Em relação ao IPTU, cada irmão é responsável por sua parte proporcional, mas o que define a responsabilidade solidária é a divisão do imóvel em partes iguais. \n\n**Por que a alternativa C é correta:**\n\n* **Responsabilidade proporcional:** Cada irmão é responsável por sua parte proporcional do IPTU, que é definida pela divisão do imóvel em partes iguais.\n* **Responsabilidade subsidiária:** Se um irmão não possui recursos para pagar a parcela do IPTU, o restante é",
+        "is_correct": false
+      },
+      {
+        "question_idx": 882,
+        "question_number": 26,
+        "exam_id": "2013-10",
+        "predicted": "D",
+        "expected": "D",
+        "raw_answer": "D**\n\n\n**Justificativa:**\n\nA cobrança de IPVA por um Estado, mesmo que a utilização do veículo esteja vinculada a finalidades essenciais, pode ser considerada inconstitucional. Isso ocorre porque a isenção fiscal é um direito fundamental, e a cobrança de IPVA pode ser considerada uma forma de tributação desproporcional e injusta.\n\n**Explicação:**\n\n* **D. A cobrança é inconstitucional, por tratar de hipótese de imunidade tributária.**\n\nA imunidade tributária é um direito fundamental que protege a pessoa física e jurídica de tributos, em",
+        "is_correct": true
+      },
+      {
+        "question_idx": 883,
+        "question_number": 27,
+        "exam_id": "2013-10",
+        "predicted": "D",
+        "expected": "D",
+        "raw_answer": "D**",
+        "is_correct": true
+      },
+      {
+        "question_idx": 884,
+        "question_number": 28,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "B",
+        "raw_answer": "A**\n\n\n**Justificativa:**\n\nA competência comum é a que se aplica a todos os casos de tributação, enquanto a residual, cumulativa e extraordinária se referem a situações específicas. \n\nNeste caso, a União criou um novo imposto, o que indica a utilização de competência **extraordinária**. \n\n**Observação:** A competência extraordinária é a que se aplica a situações específicas, como a criação de novos impostos, que não estão previstos na Constituição.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 885,
+        "question_number": 29,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "D",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 886,
+        "question_number": 30,
+        "exam_id": "2013-10",
+        "predicted": "D",
+        "expected": "A",
+        "raw_answer": "D**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 887,
+        "question_number": 31,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "A",
+        "raw_answer": "A**",
+        "is_correct": true
+      },
+      {
+        "question_idx": 888,
+        "question_number": 32,
+        "exam_id": "2013-10",
+        "predicted": "B",
+        "expected": "B",
+        "raw_answer": "B\n\n\n**Justificativa:**\n\nO instituto jurídico que autoriza a atitude do município “X” é o **B. Poder de polícia**. \n\n**Explicação:**\n\nO poder de polícia é o instrumento jurídico que permite ao Estado regular e controlar a atividade humana, visando a proteção dos interesses coletivos e a manutenção da ordem pública.  A prefeitura, nesse caso, exerceu o poder de polícia ao inspecionar o imóvel e tomar a decisão de demolir a estrutura, pois a construção sem licença e com materiais de baixa qualidade representava um risco à segurança pública e à saúde das crianças.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 889,
+        "question_number": 33,
+        "exam_id": "2013-10",
+        "predicted": "C",
+        "expected": "D",
+        "raw_answer": "C** \n\n**Explicação:**\n\nA vacância de cargo público ocorre quando um cargo fica vago por algum motivo. As alternativas A, B e D são causas de vacância de cargo público. A aposentadoria, por outro lado, é um processo de desligamento do serviço público, não uma causa de vacância.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 890,
+        "question_number": 34,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "D",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 891,
+        "question_number": 35,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "B",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 892,
+        "question_number": 36,
+        "exam_id": "2013-10",
+        "predicted": "D",
+        "expected": "A",
+        "raw_answer": "D**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 893,
+        "question_number": 37,
+        "exam_id": "2013-10",
+        "predicted": "C",
+        "expected": "B",
+        "raw_answer": "C**\n\n* **Explicação:** A afirmativa C está correta. A disposição testamentária que reconhece a paternidade de Mateus é válida, mas a disposição testamentária relativa aos bens é inválida. A parte legítima de Renato, como filho reconhecido, deve ser respeitada.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 894,
+        "question_number": 38,
+        "exam_id": "2013-10",
+        "predicted": "D",
+        "expected": "B",
+        "raw_answer": "D**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 895,
+        "question_number": 39,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "C",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 896,
+        "question_number": 40,
+        "exam_id": "2013-10",
+        "predicted": "C",
+        "expected": "C",
+        "raw_answer": "C**\n\n\n\n\n**Explicação:**\n\nA garantia acessória, em regime de comunhão parcial de bens, é um direito de Amélia, que pode ser utilizada para garantir o pagamento de uma dívida. \n\nA afirmativa C está correta pois, se Alberto prestar a fiança sem o consentimento de Amélia, a garantia acessória será anulada.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 897,
+        "question_number": 41,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "B",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 898,
+        "question_number": 42,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "C",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 899,
+        "question_number": 43,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "A",
+        "raw_answer": "A**",
+        "is_correct": true
+      },
+      {
+        "question_idx": 900,
+        "question_number": 44,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "D",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 901,
+        "question_number": 45,
+        "exam_id": "2013-10",
+        "predicted": "B",
+        "expected": "C",
+        "raw_answer": "B**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 902,
+        "question_number": 46,
+        "exam_id": "2013-10",
+        "predicted": "C",
+        "expected": "A",
+        "raw_answer": "C**\n\n\n**Justificativa:**\n\nA afirmativa C está correta pois a conversão da obrigação em perdas e danos independe de pedido do autor, em qualquer hipótese.  A lei prevê que a conversão em perdas e danos seja aplicada quando a obrigação do réu é de natureza ilícita ou abusiva, independentemente de um pedido expresso do autor.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 903,
+        "question_number": 47,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "A",
+        "raw_answer": "A**",
+        "is_correct": true
+      },
+      {
+        "question_idx": 904,
+        "question_number": 48,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "A",
+        "raw_answer": "A**",
+        "is_correct": true
+      },
+      {
+        "question_idx": 905,
+        "question_number": 49,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "A",
+        "raw_answer": "A**",
+        "is_correct": true
+      },
+      {
+        "question_idx": 906,
+        "question_number": 50,
+        "exam_id": "2013-10",
+        "predicted": "B",
+        "expected": "D",
+        "raw_answer": "B**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 907,
+        "question_number": 51,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "D",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 908,
+        "question_number": 52,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "D",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 909,
+        "question_number": 53,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "A",
+        "raw_answer": "A**",
+        "is_correct": true
+      },
+      {
+        "question_idx": 910,
+        "question_number": 54,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "D",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 911,
+        "question_number": 55,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "A",
+        "raw_answer": "A**",
+        "is_correct": true
+      },
+      {
+        "question_idx": 912,
+        "question_number": 56,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "C",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 913,
+        "question_number": 57,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "D",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 914,
+        "question_number": 58,
+        "exam_id": "2013-10",
+        "predicted": "C",
+        "expected": "B",
+        "raw_answer": "C**\n\n\n**Justificativa:**\n\nA preclusão consumativa ocorre quando a autora, após a desistência de uma ação, não pode mais ajuizar a mesma ação, mesmo que arrependida. \n\n**Observação:**\n\nA afirmativa C está correta pois a desistência da ação gera preclusão consumativa, impedindo a autora de ingressar novamente com a mesma ação.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 915,
+        "question_number": 59,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "B",
+        "raw_answer": "A\n\n**Explicação:**\n\nA desobediência à ordem judicial é um crime previsto no artigo 330 do Código Penal. \n\n**Observação:**\n\nÉ importante destacar que a resposta correta depende da interpretação da lei e da aplicação do Direito.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 916,
+        "question_number": 60,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "A",
+        "raw_answer": "A**",
+        "is_correct": true
+      },
+      {
+        "question_idx": 917,
+        "question_number": 61,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "B",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 918,
+        "question_number": 62,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "A",
+        "raw_answer": "A**",
+        "is_correct": true
+      },
+      {
+        "question_idx": 919,
+        "question_number": 63,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "B",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 920,
+        "question_number": 64,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "C",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 921,
+        "question_number": 65,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "A",
+        "raw_answer": "A**",
+        "is_correct": true
+      },
+      {
+        "question_idx": 922,
+        "question_number": 66,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "D",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 923,
+        "question_number": 67,
+        "exam_id": "2013-10",
+        "predicted": "C",
+        "expected": "C",
+        "raw_answer": "C",
+        "is_correct": true
+      },
+      {
+        "question_idx": 924,
+        "question_number": 68,
+        "exam_id": "2013-10",
+        "predicted": "C",
+        "expected": "C",
+        "raw_answer": "C",
+        "is_correct": true
+      },
+      {
+        "question_idx": 925,
+        "question_number": 69,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "C",
+        "raw_answer": "A",
+        "is_correct": false
+      },
+      {
+        "question_idx": 926,
+        "question_number": 70,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "D",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 927,
+        "question_number": 71,
+        "exam_id": "2013-10",
+        "predicted": "C",
+        "expected": "B",
+        "raw_answer": "C**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 928,
+        "question_number": 72,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "B",
+        "raw_answer": "A**\n\n\n**Justificativa:**\n\nA afirmativa correta é a **A**. \n\nA alteração do plano de saúde, embora tenha sido feita por uma empresa em dificuldade financeira, não retira o direito do empregado à internação em quarto particular. A alteração do plano de saúde não implica em perda da conquista social, e o empregado não pode exigir o direito de quarto particular em um plano de saúde que foi alterado.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 929,
+        "question_number": 73,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "A",
+        "raw_answer": "A\n\n\n**Explicação:**\n\nA descrição do ato educativo supervisionado indica que Adriana está em um ambiente de trabalho, com o objetivo de preparar para o trabalho produtivo. Essa característica é comum em programas de estágio, aprendizado profissional e cooperação. \n\n**Por que a alternativa A é a correta?**\n\n* **Estagiária:** Uma estagiária está em um programa de estágio, geralmente em um ambiente profissional, para adquirir experiência prática.\n* **Aprendiz:** Um aprendiz está em um programa de aprendizado profissional, geralmente com foco em habilidades específicas.\n* **Cooperativada:** Uma cooper",
+        "is_correct": true
+      },
+      {
+        "question_idx": 930,
+        "question_number": 74,
+        "exam_id": "2013-10",
+        "predicted": "C",
+        "expected": "C",
+        "raw_answer": "C\n\n**Explicação:**\n\nA questão busca identificar o direito que não foi regulamentado por lei, sendo a resposta a opção C. \n\n**Observação:**\n\nA questão é um exercício de interpretação e análise de direitos constitucionais.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 931,
+        "question_number": 75,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "C",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 932,
+        "question_number": 76,
+        "exam_id": "2013-10",
+        "predicted": "C",
+        "expected": "D",
+        "raw_answer": "C",
+        "is_correct": false
+      },
+      {
+        "question_idx": 933,
+        "question_number": 77,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "D",
+        "raw_answer": "A**\n\n\n**Justificativa:**\n\nA decisão do juiz de remessa dos autos à capital mineira, mesmo que não seja o local de trabalho do autor, é interlocutória e, portanto, caberá recurso de agravo de instrumento para o TRT de São Paulo. \n\n**Importante:**\n\n* O recurso de agravo de instrumento é um recurso que pode ser interposto em casos de decisões interlocutórias.\n* O TST (Tribunal Superior do Trabalho) tem jurisprudência que determina que o recurso de agravo de instrumento deve ser interposto em casos de decisões interlocutórias",
+        "is_correct": false
+      },
+      {
+        "question_idx": 934,
+        "question_number": 78,
+        "exam_id": "2013-10",
+        "predicted": "C",
+        "expected": "C",
+        "raw_answer": "C**\n\n\n**Justificativa:**\n\nA CLT prevê que o juiz, em casos de procedimento sumaríssimo, deve arquivar a reclamação trabalhista se o autor não liquidar os pedidos.  A alternativa C está correta pois descreve a ação correta do juiz em relação à situação descrita.",
+        "is_correct": true
+      },
+      {
+        "question_idx": 935,
+        "question_number": 79,
+        "exam_id": "2013-10",
+        "predicted": "D",
+        "expected": "A",
+        "raw_answer": "D**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 936,
+        "question_number": 80,
+        "exam_id": "2013-10",
+        "predicted": "A",
+        "expected": "B",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 937,
+        "question_number": 1,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "B",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 938,
+        "question_number": 2,
+        "exam_id": "2013-11",
+        "predicted": "D",
+        "expected": "B",
+        "raw_answer": "D**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 939,
+        "question_number": 3,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "B",
+        "raw_answer": "A**\n\n\n**Justificativa:**\n\nA afirmativa correta é a **A**. O Estatuto da Advocacia não impede o pagamento dos honorários advocatícios contratuais antes do pagamento do precatório. O advogado pode solicitar o bloqueio do valor correspondente ao contrato, mesmo antes do pagamento do precatório. \n\n**Observação:** A afirmativa B está incorreta, pois o pagamento dos honorários contratuais deve ser realizado antes do pagamento do precatório, mas não pode ser feito em ação judicial sem que o cliente possa deduzir o valor do precatório.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 940,
+        "question_number": 4,
+        "exam_id": "2013-11",
+        "predicted": "B",
+        "expected": "B",
+        "raw_answer": "B**",
+        "is_correct": true
+      },
+      {
+        "question_idx": 941,
+        "question_number": 5,
+        "exam_id": "2013-11",
+        "predicted": "C",
+        "expected": "C",
+        "raw_answer": "C**",
+        "is_correct": true
+      },
+      {
+        "question_idx": 942,
+        "question_number": 6,
+        "exam_id": "2013-11",
+        "predicted": "D",
+        "expected": "C",
+        "raw_answer": "D**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 943,
+        "question_number": 7,
+        "exam_id": "2013-11",
+        "predicted": "B",
+        "expected": "B",
+        "raw_answer": "B**",
+        "is_correct": true
+      },
+      {
+        "question_idx": 944,
+        "question_number": 8,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "B",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 945,
+        "question_number": 9,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "D",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 946,
+        "question_number": 10,
+        "exam_id": "2013-11",
+        "predicted": "C",
+        "expected": "B",
+        "raw_answer": "C\n\n**Análise:**\n\nO Estatuto da Advocacia prevê que o estagiário deve atuar em conjunto com um advogado, em todos os atos da advocacia. \n\n**Observação:**\n\nA questão busca verificar a compreensão do estagiário sobre a sua relação com o advogado e a necessidade de seguir as diretrizes do Estatuto da Advocacia.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 947,
+        "question_number": 11,
+        "exam_id": "2013-11",
+        "predicted": "B",
+        "expected": "B",
+        "raw_answer": "B**",
+        "is_correct": true
+      },
+      {
+        "question_idx": 948,
+        "question_number": 12,
+        "exam_id": "2013-11",
+        "predicted": "D",
+        "expected": "D",
+        "raw_answer": "D**",
+        "is_correct": true
+      },
+      {
+        "question_idx": 949,
+        "question_number": 13,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "B",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 950,
+        "question_number": 14,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "D",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 951,
+        "question_number": 15,
+        "exam_id": "2013-11",
+        "predicted": "C",
+        "expected": "D",
+        "raw_answer": "C**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 952,
+        "question_number": 16,
+        "exam_id": "2013-11",
+        "predicted": "B",
+        "expected": "C",
+        "raw_answer": "B**\n\n\n**Análise:**\n\nA alternativa B é a mais adequada, pois representa a solução mais justa e equilibrada. \n\n* **Desapropriação com indenização justa:**  A desapropriação é uma medida que pode ser utilizada em casos de infração à lei, como a desrespeito ao zoneamento. No entanto, a desapropriação deve ser feita de forma justa, com pagamento de indenização justa, prévia e em dinheiro. Isso garante que o proprietário seja compensado pelo seu terreno e que o Município X não se torne proprietário de um terreno sem o devido pagamento.\n*",
+        "is_correct": false
+      },
+      {
+        "question_idx": 953,
+        "question_number": 17,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "D",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 954,
+        "question_number": 18,
+        "exam_id": "2013-11",
+        "predicted": "C",
+        "expected": "B",
+        "raw_answer": "C**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 955,
+        "question_number": 19,
+        "exam_id": "2013-11",
+        "predicted": "D",
+        "expected": "D",
+        "raw_answer": "D**",
+        "is_correct": true
+      },
+      {
+        "question_idx": 956,
+        "question_number": 20,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "C",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 957,
+        "question_number": 21,
+        "exam_id": "2013-11",
+        "predicted": "C",
+        "expected": "B",
+        "raw_answer": "C**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 958,
+        "question_number": 22,
+        "exam_id": "2013-11",
+        "predicted": "B",
+        "expected": "B",
+        "raw_answer": "B**",
+        "is_correct": true
+      },
+      {
+        "question_idx": 959,
+        "question_number": 23,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "C",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 960,
+        "question_number": 24,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "A",
+        "raw_answer": "A**",
+        "is_correct": true
+      },
+      {
+        "question_idx": 961,
+        "question_number": 25,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "D",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 962,
+        "question_number": 26,
+        "exam_id": "2013-11",
+        "predicted": "C",
+        "expected": "B",
+        "raw_answer": "C\n\n**Explicação:**\n\nA questão se baseia na interpretação do STF sobre a matéria em pauta. O entendimento do STF é que a cobrança de ICMS sobre álbum de figurinhas é constitucional, pois não se configura como isenção ou imunidade tributária.\n\n**Observação:**\n\nÉ importante destacar que a resposta correta pode variar de acordo com a jurisprudência atual do STF.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 963,
+        "question_number": 27,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "A",
+        "raw_answer": "A**",
+        "is_correct": true
+      },
+      {
+        "question_idx": 964,
+        "question_number": 28,
+        "exam_id": "2013-11",
+        "predicted": "B",
+        "expected": "B",
+        "raw_answer": "B**",
+        "is_correct": true
+      },
+      {
+        "question_idx": 965,
+        "question_number": 29,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "D",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 966,
+        "question_number": 30,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "A",
+        "raw_answer": "A**",
+        "is_correct": true
+      },
+      {
+        "question_idx": 967,
+        "question_number": 31,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "C",
+        "raw_answer": "A**\n\n\n**Justificativa:**\n\nA desapropriação, embora realizada com a finalidade de construir uma escola pública, não se torna ilícita por causa da transferência do imóvel para o diretório regional do partido do governador. O ordenamento jurídico brasileiro prevê a possibilidade de transferência de bens desapropriados para fins distintos daqueles inicialmente previstos, desde que haja a devida formalidade e a observância dos princípios da legalidade, impessoalidade e moralidade. \n\n**Observação:**\n\nA afirmativa A é a correta, pois a desapropriação, mesmo que realizada para fins distintos,",
+        "is_correct": false
+      },
+      {
+        "question_idx": 968,
+        "question_number": 32,
+        "exam_id": "2013-11",
+        "predicted": "C",
+        "expected": "C",
+        "raw_answer": "C\n\n\n**Justificativa:**\n\nA autoexecutoriedade é a capacidade de um poder de polícia agir de forma independente, sem a necessidade de um julgamento judicial prévio.  Neste caso, a DECON, ao apreender produtos vencidos e interditar o restaurante, está agindo de forma autônoma, sem a necessidade de um processo judicial para tomar tais medidas. \n\nAs outras alternativas não se aplicam:\n\n* **Coercibilidade:**  A DECON não está usando a força para impor uma punição, mas sim para garantir a segurança alimentar.\n* **Inexigibilidade",
+        "is_correct": true
+      },
+      {
+        "question_idx": 969,
+        "question_number": 33,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "D",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 970,
+        "question_number": 34,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "B",
+        "raw_answer": "A**\n\n\n**Justificativa:**\n\nA alteração no projeto, por si só, não autoriza a prorrogação do prazo de entrega da obra. A recomposição do equilíbrio econômico-financeiro é um fator a ser considerado, mas não garante a prorrogação. A licitação foi para a reforma do hall de acesso, e a inclusão da rampa de acesso para deficientes físicos é uma alteração que pode impactar o projeto original. \n\n**Observação:** A alteração do projeto pode gerar um novo processo licitatório, mas isso depende de como a Administração pretende lidar com a",
+        "is_correct": false
+      },
+      {
+        "question_idx": 971,
+        "question_number": 35,
+        "exam_id": "2013-11",
+        "predicted": "C",
+        "expected": "C",
+        "raw_answer": "C**",
+        "is_correct": true
+      },
+      {
+        "question_idx": 972,
+        "question_number": 36,
+        "exam_id": "2013-11",
+        "predicted": "D",
+        "expected": "B",
+        "raw_answer": "D**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 973,
+        "question_number": 37,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "C",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 974,
+        "question_number": 38,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "D",
+        "raw_answer": "A**\n\n\n**Justificativa:**\n\nA afirmativa correta é a **A**. \n\n**Explicação:**\n\nA responsabilidade civil de um indivíduo por danos causados a outro, em casos de lesão ou prejuízo, é estabelecida por lei. A responsabilidade civil se dá quando há culpa ou dolo, ou seja, quando há culpabilidade do indivíduo. \n\nNo caso de Márcio, a ação de preservação dos bens de Bianca, diante da inundação, pode ser considerada como uma ação de solidariedade e espontaneidade. \n\n**Importante:**\n\nÉ fundamental ressaltar",
+        "is_correct": false
+      },
+      {
+        "question_idx": 975,
+        "question_number": 39,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "B",
+        "raw_answer": "A**\n\n\n**Justificativa:**\n\nA afirmativa correta é a **A**. \n\n**Explicação:**\n\nA celebração de um contrato de fiança por parte de um terceiro, sem o conhecimento das partes, não exige a autorização do cônjuge. A responsabilidade do fiador é individual e não se vincula ao devedor. \n\n**Importante:**\n\nÉ fundamental ressaltar que a legislação brasileira possui regras específicas sobre fiança e responsabilidade civil. A interpretação da lei deve ser feita por profissionais da área jurídica.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 976,
+        "question_number": 40,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "B",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 977,
+        "question_number": 41,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "A",
+        "raw_answer": "A**",
+        "is_correct": true
+      },
+      {
+        "question_idx": 978,
+        "question_number": 42,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "C",
+        "raw_answer": "A**\n\n* **Explicação:** A afirmativa correta é a A. O acordo entre as partes, homologado pelo juiz, é vinculativo e não pode ser alterado por simples mudança de circunstâncias. A mudança de emprego de Arnaldo não configura motivo para rever a sentença, pois a necessidade de Joana é a base para a fixação do valor.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 979,
+        "question_number": 43,
+        "exam_id": "2013-11",
+        "predicted": "C",
+        "expected": "C",
+        "raw_answer": "C**\n\n\n**Justificativa:**\n\nA afirmativa C está correta porque a retenção do histórico escolar e a negativa de participação do aluno nas atividades recreativas do colégio configuram atos ilícitos objetivos e abusivos, independentemente da intenção do colégio. \n\n**Análise:**\n\n* **Atos ilícitos:** A retenção do histórico escolar e a negativa de participação do aluno nas atividades recreativas são atos que podem ser considerados ilícitos, pois violam direitos fundamentais, como o direito à educação e à liberdade de escolha.\n* **Abuso de direito:** A conduta",
+        "is_correct": true
+      },
+      {
+        "question_idx": 980,
+        "question_number": 44,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "A",
+        "raw_answer": "A**",
+        "is_correct": true
+      },
+      {
+        "question_idx": 981,
+        "question_number": 45,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "A",
+        "raw_answer": "A**",
+        "is_correct": true
+      },
+      {
+        "question_idx": 982,
+        "question_number": 46,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "D",
+        "raw_answer": "A**",
+        "is_correct": false
+      },
+      {
+        "question_idx": 983,
+        "question_number": 47,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "C",
+        "raw_answer": "A**\n\n\n**Justificativa:**\n\nA afirmativa A está correta pois, de acordo com o Código de Defesa do Consumidor, o dentista Pedro responderá pelos danos causados à paciente Carla, em razão do comprovado fato do serviço, no prazo prescricional de cinco anos. \n\n**Explicação:**\n\n* O Código de Defesa do Consumidor (CDC) garante a proteção dos consumidores contra práticas abusivas e desleais por parte dos fornecedores.\n* A falha no serviço odontológico configura um vício no serviço, o que caracteriza uma violação do direito do consumidor.",
+        "is_correct": false
+      },
+      {
+        "question_idx": 984,
+        "question_number": 48,
+        "exam_id": "2013-11",
+        "predicted": "A",
+        "expected": "A",
+        "raw_answer": "A**",
+        "is_correct": true
+      }
+    ]
+  }
