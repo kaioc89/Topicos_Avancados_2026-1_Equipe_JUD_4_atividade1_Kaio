@@ -12,7 +12,7 @@ Questões de múltipla escolha: 862 a 984
 
 Github: https://github.com/kaioc89/Topicos_Avancados_2026-1_Equipe_JUD_4_atividade1_Kaio
 
-Youtube: https://www.youtube.com/watch?v=qAP6T9f4UmA
+Youtube: https://www.youtube.com/watch?v=qAP6T9f4UmA (OBs.: O gravador finalizou aos 15 minutos e cortou o vídeo, mas já estava apenas encerrando a apresentação)
 
 Relatório: https://drive.google.com/file/d/1DKxi_FWVIGwCGN1yHxJZAx64YCSY7UCW/view?usp=sharing
 
